@@ -1,0 +1,6 @@
+/tomcat.8080
+.idea
+.gradle
+/gradle
+out
+build
